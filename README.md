@@ -20,14 +20,14 @@ the specification. The RuGenerous community invites you to add your token to our
 
 
 ## Adding Your Token
-1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example using PNG:
+1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example using RUG:
     ```json
     {
         "address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
         "chainId": 43114,
         "name": "RuGenerous",
         "symbol": "RUG",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://user-images.githubusercontent.com/82294478/142774471-26598744-8497-420c-a4db-4e4fabb9795c.png"
     }
     ```
