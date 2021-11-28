@@ -43,7 +43,7 @@
             "chainId": 43114,
             "name": "RuGenerous",
             "symbol": "RUG",
-            "decimals": 18,
+            "decimals": 9,
             "logoURI": "https://user-images.githubusercontent.com/82294478/142774471-26598744-8497-420c-a4db-4e4fabb9795c.png"
         },
         {
